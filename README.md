@@ -1,2 +1,3 @@
-# landing-page-template
-A template for our marketing landing pages
+# Landing Page Template
+
+A template for our marketing landing pages.
